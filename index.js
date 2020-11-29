@@ -60,7 +60,9 @@ inquirer
     console.log('response: ', response)
 
 const readmeOutline = `
-### ${response.title}
+# ${response.title}
+
+![GitHub](https://img.shields.io/badge/License-${response.license}-green)
 
 ## Table of Contents 
 [Description](#description)  
