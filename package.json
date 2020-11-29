@@ -1,0 +1,22 @@
+{
+  "name": "quick-readme-generator",
+  "version": "1.0.0",
+  "description": "Quickly generate a professional README for your project all within your command line.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emblair96/quick-README-generator.git"
+  },
+  "author": "Emily Blair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emblair96/quick-README-generator/issues"
+  },
+  "homepage": "https://github.com/emblair96/quick-README-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
